@@ -58,7 +58,11 @@
      - [Template Method](#-template-method)
      - [Visitor](#%EF%B8%8F-visitor)
 6. [Kapanış](#kapan%C4%B1%C5%9F)
-7. [Kaynakçalar](#kaynakçalar)
+ - [Yagni Prensibi)](#single-responsibility-principle-tek-sorumluluk-prensibi)
+ - [DRY Prensibi)](#single-responsibility-principle-tek-sorumluluk-prensibi)
+ - [KISS Prensibi)](#single-responsibility-principle-tek-sorumluluk-prensibi)
+7. [Kapanış](#kapan%C4%B1%C5%9F)
+8. [Kaynakçalar](#kaynakçalar)
 
 ## Giriş ve Tanışma
 
