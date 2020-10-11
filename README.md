@@ -60,7 +60,7 @@
 6. [Diğer Prensipler](#diğer-prensipler)
     - [DRY Prensibi](#dont-repeat-your-self-dry)
     - [KISS Prensibi](#keep-it-simple-stupid-kiss)
-    - [Yagni Prensibi](#you-arent-gonna-need-it)
+    - [Yagni Prensibi](#you-arent-gonna-need-it-yagni)
 7. [Kapanış](#kapan%C4%B1%C5%9F)
 8. [Kaynakçalar](#kaynakçalar)
 
