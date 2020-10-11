@@ -3692,7 +3692,7 @@ daily.Accept(jsonExportVisitor);
 ```
 
 *Bu tasarım deseninin JAVA ve diğer diller için olan uygulamasını [bu tasarım deseni için oluşturulmuş klasörde](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak/tree/master/visitor) bulabilirsiniz.*
-
+# Diğer Prensipler
 # Kapanış
 
 **Design Patterns: Elements of Reusable Object-Oriented Software** kitabındaki temel 23 tasarım deseninin konu anlatımı ve birçok dilde olan uygulamalarını bitirdik. Kaynak üzerinde yanlış olan, düzeltilmesini istediğiniz yerleri [GitHub]([https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) hesabı üzerinden pull request atarak sizler de kaynağa katkıda bulunabilirsiniz.
