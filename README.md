@@ -58,9 +58,9 @@
      - [Template Method](#-template-method)
      - [Visitor](#%EF%B8%8F-visitor)
 6. [Diğer Prensipler](#diğer-prensipler)
-    - [Yagni Prensibi](#single-responsibility-principle-tek-sorumluluk-prensibi)
-    - [DRY Prensibi](#single-responsibility-principle-tek-sorumluluk-prensibi)
-    - [KISS Prensibi](#single-responsibility-principle-tek-sorumluluk-prensibi)
+    - [DRY Prensibi](#dont-repeat-your-self-dry)
+    - [KISS Prensibi](#keep-it-simple-stupid-kiss)
+    - [Yagni Prensibi](#you-arent-gonna-need-it)
 7. [Kapanış](#kapan%C4%B1%C5%9F)
 8. [Kaynakçalar](#kaynakçalar)
 
