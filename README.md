@@ -3694,6 +3694,7 @@ daily.Accept(jsonExportVisitor);
 *Bu tasarım deseninin JAVA ve diğer diller için olan uygulamasını [bu tasarım deseni için oluşturulmuş klasörde](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak/tree/master/visitor) bulabilirsiniz.*
 # Diğer Prensipler
 ### Don't Repeat Your Self (DRY)
+DRY Prensibi, Sistem içindeki her bilginin belirli ve tek bir kaynaktan alınması gerektiği belirtir. Tekrara yer yoktur.
 ### Keep It Simple, Stupid (KISS)
 ### You Aren't Gonna Need It (YAGNI)
 # Kapanış
