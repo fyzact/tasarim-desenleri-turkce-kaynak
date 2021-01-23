@@ -6,7 +6,7 @@
 
 ---
 
-### İçindekile
+### İçindekiler
 
 1. [Giriş ve Tanışma](#giriş-ve-tanışma)
 2. [Nesne Yönelimli Programlama Nedir?](#nesne-yönelimli-programlama-nedir)
